@@ -19,6 +19,9 @@
 ##
 
     
+ <div>
+    
 
   ![Snake animation](https://github.com/SamuelTabordaAS/SamuelTabordaAS/blob/output/github-contribution-grid-snake.svg)
 
+</div>
